@@ -1,0 +1,72 @@
+body
+{
+  background-color: #e3e3e3;
+  text-align: left;
+  color: #fff;
+  font-family: "Lexend Deca";
+  font-weight: 400;
+}
+h3
+{
+  padding-left: 30px;
+}
+p
+{
+  padding: 70px 30px;
+}
+.orange
+{
+  background-color: #e1701a;
+}
+.blue
+{
+  background-color: #00587a;
+}
+.green
+{
+  background-color: #184d47;
+}
+.container
+{
+  padding: 5% 10%;
+}
+.carslogo
+{
+  margin: 15% 10%;
+}
+.buttoncar1
+{
+  border-radius: 50px;
+  margin-left: 30px;
+  margin-bottom: 45px;
+  color: #e1701a;
+}
+.buttoncar2
+{
+  border-radius: 50px;
+  margin-left: 30px;
+  margin-bottom: 45px;
+  color: #00587a;
+}
+.buttoncar3
+{
+  border-radius: 50px;
+  margin-left: 30px;
+  margin-bottom: 45px;
+  color: #184d47;
+}
+.buttoncar1:hover
+{
+  background-color: #e1701a;
+  color: #fff;
+}
+.buttoncar2:hover
+{
+  background-color: #00587a;
+  color: #fff;
+}
+.buttoncar3:hover
+{
+  background-color: #184d47;
+  color: #fff;
+}
